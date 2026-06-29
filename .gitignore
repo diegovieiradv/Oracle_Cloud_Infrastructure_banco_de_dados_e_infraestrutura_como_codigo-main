@@ -1,0 +1,4 @@
+venv
+textos_para_o_portal/config.json
+Oracle_Resource_Manager/ORM-PORTAL-CLOUD/certs/*.pem
+Oracle_Resource_Manager/ORM-PORTAL-CLOUD.zip
